@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?><yml_catalog date="2025-04-01T10:00:17">
+    <shop>
+        <name>Яедок</name>
+        <company>Яедок</company>
+        <url>https://im-edok.ru</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Кулинарные курсы</category>
+                            <category id="2" parentId="1">Салаты</category>
+                            <category id="3" parentId="1">Авторская кухня</category>
+                            <category id="4" parentId="1">Мясные салаты</category>
+                            <category id="5" parentId="1">Салаты без майонеза</category>
+                            <category id="6" parentId="1">Идеи</category>
+                            <category id="7" parentId="1">Здоровье</category>
+                            <category id="8" parentId="1">Видеорецепты</category>
+                            <category id="9" parentId="1">Европейская кухня</category>
+                            <category id="10" parentId="1">Пошаговые рецепты</category>
+                            <category id="11" parentId="1">Итальянская кухня</category>
+                            <category id="12" parentId="1">Греческая кухня</category>
+                            <category id="13" parentId="1">Русская кухня</category>
+                            <category id="14" parentId="1">Постная еда</category>
+                            <category id="15" parentId="1">салат</category>
+                            <category id="16" parentId="1">Французская кухня</category>
+                            <category id="17" parentId="1">Салаты с помидорами</category>
+                            <category id="18" parentId="1">Летние салаты</category>
+                            <category id="19" parentId="1">Салаты из огурцов</category>
+                            <category id="20" parentId="1">Рыбные салаты</category>
+                            <category id="21" parentId="1">Классические салаты</category>
+                            <category id="22" parentId="1">Советская кухня</category>
+                            <category id="23" parentId="1">Армянская кухня</category>
+                            <category id="24" parentId="1">Вегетарианская еда</category>
+                            <category id="25" parentId="1">Основные блюда</category>
+                            <category id="26" parentId="1">Выпечка и десерты</category>
+                            <category id="27" parentId="1">Завтраки</category>
+                            <category id="28" parentId="1">Вьетнамская кухня</category>
+                            <category id="29" parentId="1">Бельгийская кухня</category>
+                            <category id="30" parentId="1">Овощные салаты</category>
+                            <category id="31" parentId="1">Средиземноморская кухня</category>
+                            <category id="32" parentId="1">Болгарская кухня</category>
+                            <category id="33" parentId="1">Салаты с сыром</category>
+                            <category id="34" parentId="1">Салаты из яиц</category>
+                            <category id="35" parentId="1">Американская кухня</category>
+                            <category id="36" parentId="1">Салаты с курицей</category>
+                            <category id="37" parentId="1">Немецкая кухня</category>
+                            <category id="38" parentId="1">Теплые салаты</category>
+                            <category id="39" parentId="1">Закуски</category>
+                            <category id="40" parentId="1">Крымская кухня</category>
+                            <category id="41" parentId="1">Все рецепты</category>
+                            <category id="42" parentId="1">Грузинская кухня</category>
+                            <category id="43" parentId="1">Веганская еда</category>
+                            <category id="44" parentId="1">Британская кухня</category>
+                            <category id="45" parentId="1">Ростбиф</category>
+                            <category id="46" parentId="1">Мимоза</category>
+                            <category id="47" parentId="1">Новогодние салаты</category>
+                            <category id="48" parentId="1">Рецепты шефов</category>
+                            <category id="49" parentId="1">Вегетарианские салаты</category>
+                            <category id="50" parentId="1">Мастер-класс</category>
+                            <category id="51" parentId="1">Салаты с грибами</category>
+                            <category id="52" parentId="1">Узбекская кухня</category>
+                            <category id="53" parentId="1">Всюду жизнь</category>
+                            <category id="54" parentId="1">Паназиатская кухня</category>
+                            <category id="55" parentId="1">Салаты с морепродуктами</category>
+                            <category id="56" parentId="1">Салаты с кальмаром</category>
+                            <category id="57" parentId="1">Салаты с креветками</category>
+                            <category id="58" parentId="1">Салат «Цезарь»</category>
+                            <category id="59" parentId="1">Мексиканская кухня</category>
+                            <category id="60" parentId="1">Соусы и маринады</category>
+                            <category id="61" parentId="1">Салаты с фасолью</category>
+                            <category id="62" parentId="1">Продукт</category>
+                            <category id="63" parentId="1">Салаты с майонезом</category>
+                            <category id="64" parentId="1">Диетические салаты</category>
+                            <category id="65" parentId="1">Кавказская кухня</category>
+                            <category id="66" parentId="1">Салаты из баклажанов</category>
+                            <category id="67" parentId="1">Салаты из кабачков</category>
+                            <category id="68" parentId="1">Праздничные салаты</category>
+                            <category id="69" parentId="1">Вопрос</category>
+                            <category id="70" parentId="1">Салаты из капусты</category>
+                            <category id="71" parentId="1">Низкокалорийная еда</category>
+                            <category id="72" parentId="1">Латвийская кухня</category>
+                            <category id="73" parentId="1">Крабовый салат</category>
+                            <category id="74" parentId="1">Селедка под шубой</category>
+                            <category id="75" parentId="1">Под шубой</category>
+                            <category id="76" parentId="1">Слоеные салаты</category>
+                            <category id="77" parentId="1">Греческий салат</category>
+                            <category id="78" parentId="1">Библиотека</category>
+                            <category id="79" parentId="1">Испанская кухня</category>
+                            <category id="80" parentId="1">Кредо</category>
+                            <category id="81" parentId="1">Фруктовые салаты</category>
+                            <category id="82" parentId="1">Бездрожжевой хлеб</category>
+                            <category id="83" parentId="1">Хлеб</category>
+                            <category id="84" parentId="1">Безглютеновая диета</category>
+                            <category id="85" parentId="1">Кето-диета</category>
+                            <category id="86" parentId="1">Путешествия</category>
+                            <category id="87" parentId="1">Тартар</category>
+                            <category id="88" parentId="1">Эстонская кухня</category>
+                            <category id="89" parentId="1">Аджапсандал</category>
+                            <category id="90" parentId="1">Абхазская кухня</category>
+                            <category id="91" parentId="1">Азербайджанская кухня</category>
+                            <category id="92" parentId="1">закуска</category>
+                            <category id="93" parentId="1">Холодные закуски</category>
+                            <category id="94" parentId="1">Рецепты с индейкой</category>
+                            <category id="95" parentId="1">Перуанская кухня</category>
+                            <category id="96" parentId="1">Закуски на праздничный стол</category>
+                            <category id="97" parentId="1">Венгерская кухня</category>
+                            <category id="98" parentId="1">Овощи на зиму</category>
+                            <category id="99" parentId="1">Помидоры на зиму</category>
+                            <category id="100" parentId="1">Перцы на зиму</category>
+                            <category id="101" parentId="1">Лечо</category>
+                            <category id="102" parentId="1">Заготовки</category>
+                            <category id="103" parentId="1">Горячие закуски</category>
+                            <category id="104" parentId="1">Японская кухня</category>
+                            <category id="105" parentId="1">Еврейская кухня</category>
+                            <category id="106" parentId="1">Овощи в духовке</category>
+                            <category id="107" parentId="1">Блюда из овощей</category>
+                            <category id="108" parentId="1">Мировая кухня</category>
+                            <category id="109" parentId="1">Блюда из рыбы</category>
+                            <category id="110" parentId="1">Турецкая кухня</category>
+                            <category id="111" parentId="1">Сырные закуски</category>
+                            <category id="112" parentId="1">Сырные шарики</category>
+                            <category id="113" parentId="1">Кипрская кухня</category>
+                            <category id="114" parentId="1">Жаркое</category>
+                            <category id="115" parentId="1">Сирийская кухня</category>
+                            <category id="116" parentId="1">Соус «Песто»</category>
+                            <category id="117" parentId="1">Канапе</category>
+                            <category id="118" parentId="1">Новогодние закуски</category>
+                            <category id="119" parentId="1">Шведская кухня</category>
+                            <category id="120" parentId="1">Куличи</category>
+                            <category id="121" parentId="1">Десерты без выпечки</category>
+                            <category id="122" parentId="1">Творожные десерты</category>
+                            <category id="123" parentId="1">десерт</category>
+                            <category id="124" parentId="1">Фруктовые десерты</category>
+                            <category id="125" parentId="1">Башкирская кухня</category>
+                            <category id="126" parentId="1">Чизкейк</category>
+                            <category id="127" parentId="1">Печенье</category>
+                            <category id="128" parentId="1">выпечка</category>
+                            <category id="129" parentId="1">Низкокалорийные десерты</category>
+                            <category id="130" parentId="1">Марокканская кухня</category>
+                            <category id="131" parentId="1">Торты</category>
+                            <category id="132" parentId="1">Пироги с клубникой</category>
+                            <category id="133" parentId="1">торт</category>
+                            <category id="134" parentId="1">Кексы в духовке</category>
+                            <category id="135" parentId="1">Творожные кексы</category>
+                            <category id="136" parentId="1">Кексы</category>
+                            <category id="137" parentId="1">Десертные крема</category>
+                            <category id="138" parentId="1">Пироги</category>
+                            <category id="139" parentId="1">пирог</category>
+                            <category id="140" parentId="1">Австралийская кухня</category>
+                            <category id="141" parentId="1">Мармелад</category>
+                            <category id="142" parentId="1">Пирожное</category>
+                            <category id="143" parentId="1">Творожный торт</category>
+                            <category id="144" parentId="1">Торт «Зебра»</category>
+                            <category id="145" parentId="1">Постное печенье</category>
+                            <category id="146" parentId="1">Постные десерты</category>
+                            <category id="147" parentId="1">Шоколадный торт</category>
+                            <category id="148" parentId="1">Желе</category>
+                            <category id="149" parentId="1">Пудинг</category>
+                            <category id="150" parentId="1">Торт «Наполеон»</category>
+                            <category id="151" parentId="1">Супы</category>
+                            <category id="152" parentId="1">Зеленый борщ</category>
+                            <category id="153" parentId="1">Рыбный суп</category>
+                            <category id="154" parentId="1">Борщ со щавелем</category>
+                            <category id="155" parentId="1">суп</category>
+                            <category id="156" parentId="1">Крем-суп</category>
+                            <category id="157" parentId="1">Суп-пюре</category>
+                            <category id="158" parentId="1">Постные супы</category>
+                            <category id="159" parentId="1">Грибной суп</category>
+                            <category id="160" parentId="1">Тайская кухня</category>
+                            <category id="161" parentId="1">Чешская кухня</category>
+                            <category id="162" parentId="1">Тыквенный суп</category>
+                            <category id="163" parentId="1">Луковый суп</category>
+                            <category id="164" parentId="1">Австрийская кухня</category>
+                            <category id="165" parentId="1">Томатный суп</category>
+                            <category id="166" parentId="1">Суп с курицей</category>
+                            <category id="167" parentId="1">Сырный суп</category>
+                            <category id="168" parentId="1">Африканская кухня</category>
+                            <category id="169" parentId="1">Суп с фасолью</category>
+                            <category id="170" parentId="1">Холодный борщ</category>
+                            <category id="171" parentId="1">Соусы к рыбе</category>
+                            <category id="172" parentId="1">соус</category>
+                            <category id="173" parentId="1">Корейская кухня</category>
+                            <category id="174" parentId="1">Бурятская кухня</category>
+                            <category id="175" parentId="1">Блюда с фаршем</category>
+                            <category id="176" parentId="1">Татарская кухня</category>
+                            <category id="177" parentId="1">Азу</category>
+                            <category id="178" parentId="1">Меню при диабете</category>
+                            <category id="179" parentId="1">Рататуй</category>
+                            <category id="180" parentId="1">Паста и пицца</category>
+                            <category id="181" parentId="1">Гратен</category>
+                            <category id="182" parentId="1">Чесночный соус</category>
+                            <category id="183" parentId="1">Рыба в духовке</category>
+                            <category id="184" parentId="1">Котлеты</category>
+                            <category id="185" parentId="1">Рагу</category>
+                            <category id="186" parentId="1">Гуляш из свинины</category>
+                            <category id="187" parentId="1">Овощное рагу</category>
+                            <category id="188" parentId="1">Хинкали</category>
+                            <category id="189" parentId="1">Рестораны</category>
+                            <category id="190" parentId="1">Одесская кухня</category>
+                            <category id="191" parentId="1">Гуляш из говядины</category>
+                            <category id="192" parentId="1">Гуляш</category>
+                            <category id="193" parentId="1">Китайская кухня</category>
+                            <category id="194" parentId="1">Мусака</category>
+                            <category id="195" parentId="1">Стейки</category>
+                            <category id="196" parentId="1">Сырники из творога</category>
+                            <category id="197" parentId="1">Сырники</category>
+                            <category id="198" parentId="1">Ирландская кухня</category>
+                            <category id="199" parentId="1">Яичница</category>
+                            <category id="200" parentId="1">Брускетта</category>
+                            <category id="201" parentId="1">Открытый бутерброд</category>
+                            <category id="202" parentId="1">Сэндвичи</category>
+                            <category id="203" parentId="1">Хачапури</category>
+                            <category id="204" parentId="1">Скандинавская кухня</category>
+                            <category id="205" parentId="1">Куриный бульон</category>
+                            <category id="206" parentId="1">Бульоны</category>
+                            <category id="207" parentId="1">Югославская кухня</category>
+                            <category id="208" parentId="1">Булочки</category>
+                            <category id="209" parentId="1">Каши</category>
+                            <category id="210" parentId="1">Коктейли</category>
+                            <category id="211" parentId="1">Напитки</category>
+                            <category id="212" parentId="1">Рулет из лаваша</category>
+                            <category id="213" parentId="1">Пышные оладьи</category>
+                            <category id="214" parentId="1">Оладьи</category>
+                            <category id="215" parentId="1">Блины без дрожжей</category>
+                            <category id="216" parentId="1">Блины</category>
+                            <category id="217" parentId="1">Блины на молоке</category>
+                            <category id="218" parentId="1">Тонкие блины</category>
+                            <category id="219" parentId="1">Пирожки</category>
+                            <category id="220" parentId="1">Буррито</category>
+                            <category id="221" parentId="1">Тосты</category>
+                            <category id="222" parentId="1">Гренки</category>
+                            <category id="223" parentId="1">Тортилья</category>
+                            <category id="224" parentId="1">Из яиц</category>
+                            <category id="225" parentId="1">Творожные закуски</category>
+                            <category id="226" parentId="1">Индийская кухня</category>
+                            <category id="227" parentId="1">Омлет</category>
+                            <category id="228" parentId="1">Острые салаты</category>
+                            <category id="229" parentId="1">Соленья и консервация</category>
+                            <category id="230" parentId="1">Блюда из мяса</category>
+                            <category id="231" parentId="1">Лапша</category>
+                            <category id="232" parentId="1">Паэлья</category>
+                            <category id="233" parentId="1">Бефстроганов</category>
+                            <category id="234" parentId="1">Блюда из говядины</category>
+                            <category id="235" parentId="1">Украинская кухня</category>
+                            <category id="236" parentId="1">Киевские котлеты</category>
+                            <category id="237" parentId="1">Пюре</category>
+                            <category id="238" parentId="1">Плов</category>
+                            <category id="239" parentId="1">Молдавская кухня</category>
+                            <category id="240" parentId="1">Блюда из птицы</category>
+                            <category id="241" parentId="1">Блюда из курицы</category>
+                            <category id="242" parentId="1">Макароны</category>
+                            <category id="243" parentId="1">Курица в духовке</category>
+                            <category id="244" parentId="1">Голубцы</category>
+                            <category id="245" parentId="1">Терияки</category>
+                            <category id="246" parentId="1">Картошка с грибами</category>
+                            <category id="247" parentId="1">Вареники</category>
+                            <category id="248" parentId="1">Новогодние блюда из курицы</category>
+                            <category id="249" parentId="1">Египетская кухня</category>
+                            <category id="250" parentId="1">Арабская кухня</category>
+                            <category id="251" parentId="1">Шакшука</category>
+                            <category id="252" parentId="1">Цезарь с курицей</category>
+                            <category id="253" parentId="1">Соус «Цезарь»</category>
+                            <category id="254" parentId="1">Овощной бульон</category>
+                            <category id="255" parentId="1">Мясной бульон</category>
+                            <category id="256" parentId="1">Грибной бульон</category>
+                            <category id="257" parentId="1">Таджикская кухня</category>
+                            <category id="258" parentId="1">Суп с фрикадельками</category>
+                            <category id="259" parentId="1">Рыбный бульон</category>
+                            <category id="260" parentId="1">Рисовый суп</category>
+                            <category id="261" parentId="1">Суп с клецками</category>
+                            <category id="262" parentId="1">Белорусская кухня</category>
+                            <category id="263" parentId="1">Горячие бутерброды</category>
+                            <category id="264" parentId="1">Португальская кухня</category>
+                            <category id="265" parentId="1">Блюда с печенью</category>
+                            <category id="266" parentId="1">Гамбургер</category>
+                            <category id="267" parentId="1">Новогодние блюда из свинины</category>
+                            <category id="268" parentId="1">Соусы к мясу</category>
+                            <category id="269" parentId="1">Детское меню</category>
+                            <category id="270" parentId="1">Лепешки</category>
+                            <category id="271" parentId="1">Конфеты</category>
+                            <category id="272" parentId="1">Запеканка</category>
+                            <category id="273" parentId="1">Клубный сэндвич</category>
+                            <category id="274" parentId="1">Бутерброды на праздничный стол</category>
+                            <category id="275" parentId="1">Закрытый бутерброд</category>
+                            <category id="276" parentId="1">Бутерброды с рыбой</category>
+                            <category id="277" parentId="1">Бутерброды с сыром</category>
+                            <category id="278" parentId="1">Шаурма</category>
+                            <category id="279" parentId="1">Малайзийская кухня</category>
+                            <category id="280" parentId="1">Роллы</category>
+                            <category id="281" parentId="1">Соус «Бешамель»</category>
+                            <category id="282" parentId="1">Блюда с соевым соусом</category>
+                            <category id="283" parentId="1">Латиноамериканская кухня</category>
+                            <category id="284" parentId="1">Горчица</category>
+                            <category id="285" parentId="1">Блюда из баранины</category>
+                            <category id="286" parentId="1">Алкогольные напитки</category>
+                            <category id="287" parentId="1">Шашлык из свинины</category>
+                            <category id="288" parentId="1">Шашлык</category>
+                            <category id="289" parentId="1">Шашлык куриный</category>
+                            <category id="290" parentId="1">Грибы на зиму</category>
+                            <category id="291" parentId="1">Маринады для шашлыка</category>
+                            <category id="292" parentId="1">Запеканка из кабачков</category>
+                            <category id="293" parentId="1">Спагетти</category>
+                            <category id="294" parentId="1">Творожные запеканки</category>
+                            <category id="295" parentId="1">Голландская кухня</category>
+                            <category id="296" parentId="1">Котлеты из индейки</category>
+                            <category id="297" parentId="1">Рыбные котлеты</category>
+                            <category id="298" parentId="1">Печеночные котлеты</category>
+                            <category id="299" parentId="1">Постные котлеты</category>
+                            <category id="300" parentId="1">Шотландская кухня</category>
+                            <category id="301" parentId="1">Куриные котлеты</category>
+                            <category id="302" parentId="1">Рулеты</category>
+                            <category id="303" parentId="1">Норвежская кухня</category>
+                            <category id="304" parentId="1">Пельмени</category>
+                            <category id="305" parentId="1">Отбивные</category>
+                            <category id="306" parentId="1">Сладкие рулеты</category>
+                            <category id="307" parentId="1">Овощное рагу с кабачками</category>
+                            <category id="308" parentId="1">Карибская кухня</category>
+                            <category id="309" parentId="1">Мясо в духовке</category>
+                            <category id="310" parentId="1">Датская кухня</category>
+                            <category id="311" parentId="1">Ризотто</category>
+                            <category id="312" parentId="1">Бразильская кухня</category>
+                            <category id="313" parentId="1">Феттуччини</category>
+                            <category id="314" parentId="1">Паста карбонара</category>
+                            <category id="315" parentId="1">Фрикадельки</category>
+                            <category id="316" parentId="1">Блины с печенью</category>
+                            <category id="317" parentId="1">Блины фаршированные</category>
+                            <category id="318" parentId="1">Блины с курицей</category>
+                            <category id="319" parentId="1">Оливье</category>
+                            <category id="320" parentId="1">Печеночные оладьи</category>
+                            <category id="321" parentId="1">Профитроли</category>
+                            <category id="322" parentId="1">Индонезийская кухня</category>
+                            <category id="323" parentId="1">Паштеты</category>
+                            <category id="324" parentId="1">Пицца с помидорами</category>
+                            <category id="325" parentId="1">Блинчики</category>
+                            <category id="326" parentId="1">Фаршированные яйца</category>
+                            <category id="327" parentId="1">Рулетики</category>
+                            <category id="328" parentId="1">Винегрет</category>
+                            <category id="329" parentId="1">Ризотто с мясом</category>
+                            <category id="330" parentId="1">Ризотто с грибами</category>
+                            <category id="331" parentId="1">Форшмак</category>
+                            <category id="332" parentId="1">Мусс</category>
+                            <category id="333" parentId="1">Суфле</category>
+                            <category id="334" parentId="1">Блюда из круп</category>
+                            <category id="335" parentId="1">В кляре</category>
+                            <category id="336" parentId="1">Ливанская кухня</category>
+                            <category id="337" parentId="1">Драники</category>
+                            <category id="338" parentId="1">Фаршированные блюда</category>
+                            <category id="339" parentId="1">Кабачковая икра</category>
+                            <category id="340" parentId="1">Кабачки на зиму</category>
+                            <category id="341" parentId="1">Лобио</category>
+                            <category id="342" parentId="1">Гречневая каша</category>
+                            <category id="343" parentId="1">Блюда из морепродуктов</category>
+                            <category id="344" parentId="1">Паста в сливочном соусе</category>
+                            <category id="345" parentId="1">паста</category>
+                            <category id="346" parentId="1">Равиоли</category>
+                            <category id="347" parentId="1">Шашлык из баранины</category>
+                            <category id="348" parentId="1">Суп «Харчо»</category>
+                            <category id="349" parentId="1">Киргизская кухня</category>
+                            <category id="350" parentId="1">Бешбармак</category>
+                            <category id="351" parentId="1">Кебаб</category>
+                            <category id="352" parentId="1">Казахская кухня</category>
+                            <category id="353" parentId="1">Самса</category>
+                            <category id="354" parentId="1">Беляши</category>
+                            <category id="355" parentId="1">Долма</category>
+                            <category id="356" parentId="1">Фарфалле</category>
+                            <category id="357" parentId="1">Шурпа</category>
+                            <category id="358" parentId="1">Перец фаршированный рисом</category>
+                            <category id="359" parentId="1">Перец фаршированный</category>
+                            <category id="360" parentId="1">Люля-кебаб</category>
+                            <category id="361" parentId="1">Бозбаш</category>
+                            <category id="362" parentId="1">Окрошка</category>
+                            <category id="363" parentId="1">Праздничные блюда из курицы</category>
+                            <category id="364" parentId="1">Маринад для курицы</category>
+                            <category id="365" parentId="1">Чахохбили</category>
+                            <category id="366" parentId="1">Кубинская кухня</category>
+                            <category id="367" parentId="1">Холодец</category>
+                            <category id="368" parentId="1">Нагетсы</category>
+                            <category id="369" parentId="1">Новости партнеров</category>
+                            <category id="370" parentId="1">В рукаве</category>
+                            <category id="371" parentId="1">Сметанный соус</category>
+                            <category id="372" parentId="1">Сироп</category>
+                            <category id="373" parentId="1">Восточно-индийская кухня</category>
+                            <category id="374" parentId="1">Как это сделано</category>
+                            <category id="375" parentId="1">Финская кухня</category>
+                            <category id="376" parentId="1">Маринад для свинины</category>
+                            <category id="377" parentId="1">Маринад на кефире</category>
+                            <category id="378" parentId="1">Маринад с соевым соусом</category>
+                            <category id="379" parentId="1">Маринад для рыбы</category>
+                            <category id="380" parentId="1">Маринад для говядины</category>
+                            <category id="381" parentId="1">Деруны</category>
+                            <category id="382" parentId="1">Зразы</category>
+                            <category id="383" parentId="1">Пицца в духовке</category>
+                            <category id="384" parentId="1">Пицца с грибами</category>
+                            <category id="385" parentId="1">Соленая рыба</category>
+                            <category id="386" parentId="1">Польская кухня</category>
+                            <category id="387" parentId="1">Плов с курицей</category>
+                            <category id="388" parentId="1">Плов из свинины</category>
+                            <category id="389" parentId="1">Узбекский плов</category>
+                            <category id="390" parentId="1">Каши на воде</category>
+                            <category id="391" parentId="1">Каши на молоке</category>
+                            <category id="392" parentId="1">Хумус</category>
+                            <category id="393" parentId="1">Блюда с рисом</category>
+                            <category id="394" parentId="1">Свекольник</category>
+                            <category id="395" parentId="1">Суп с вермишелью</category>
+                            <category id="396" parentId="1">Праздничные блюда из свинины</category>
+                            <category id="397" parentId="1">Мясо по-французски</category>
+                            <category id="398" parentId="1">Кухня Вестероса</category>
+                            <category id="399" parentId="1">Буженина</category>
+                            <category id="400" parentId="1">Барбекю</category>
+                            <category id="401" parentId="1">Литовская кухня</category>
+                            <category id="402" parentId="1">Котлеты на пару</category>
+                            <category id="403" parentId="1">Тефтели</category>
+                            <category id="404" parentId="1">Тефтели в томатном соусе</category>
+                            <category id="405" parentId="1">Соте</category>
+                            <category id="406" parentId="1">Чатни</category>
+                            <category id="407" parentId="1">Манная каша</category>
+                            <category id="408" parentId="1">Сицилийская кухня</category>
+                            <category id="409" parentId="1">Сербская кухня</category>
+                            <category id="410" parentId="1">Гуакамоле</category>
+                            <category id="411" parentId="1">Туркменская кухня</category>
+                            <category id="412" parentId="1">Афганская кухня</category>
+                            <category id="413" parentId="1">Галеты</category>
+                            <category id="414" parentId="1">Такос</category>
+                            <category id="415" parentId="1">Манты</category>
+                            <category id="416" parentId="1">Лазанья</category>
+                            <category id="417" parentId="1">Карпаччо</category>
+                            <category id="418" parentId="1">Клецки</category>
+                            <category id="419" parentId="1">Ньокки</category>
+                            <category id="420" parentId="1">Домашняя паста</category>
+                            <category id="421" parentId="1">Тенденция</category>
+                            <category id="422" parentId="1">Панини</category>
+                            <category id="423" parentId="1">Рецепты с кроликом</category>
+                            <category id="424" parentId="1">Фрикасе</category>
+                            <category id="425" parentId="1">Грибной соус</category>
+                            <category id="426" parentId="1">Блины народов мира</category>
+                            <category id="427" parentId="1">Блины без яиц</category>
+                            <category id="428" parentId="1">Суп с чечевицей</category>
+                            <category id="429" parentId="1">Хашлама</category>
+                            <category id="430" parentId="1">Слоеные пироги</category>
+                            <category id="431" parentId="1">Бифштекс</category>
+                            <category id="432" parentId="1">Шоколадный кекс</category>
+                            <category id="433" parentId="1">Тирамису</category>
+                            <category id="434" parentId="1">Зефир</category>
+                            <category id="435" parentId="1">Бискотти</category>
+                            <category id="436" parentId="1">Мороженое</category>
+                            <category id="437" parentId="1">Бисквит</category>
+                            <category id="438" parentId="1">Фокачча</category>
+                            <category id="439" parentId="1">Трубочки</category>
+                            <category id="440" parentId="1">Киш</category>
+                            <category id="441" parentId="1">Песочный пирог с клубникой</category>
+                            <category id="442" parentId="1">Сладкие блины</category>
+                            <category id="443" parentId="1">Блины с творогом</category>
+                            <category id="444" parentId="1">Чиабатта</category>
+                            <category id="445" parentId="1">Безе, меренги</category>
+                            <category id="446" parentId="1">Батончики мюсли</category>
+                            <category id="447" parentId="1">Выпечка с творогом</category>
+                            <category id="448" parentId="1">Постные пироги</category>
+                            <category id="449" parentId="1">Ачма</category>
+                            <category id="450" parentId="1">Пончики</category>
+                            <category id="451" parentId="1">Варенье</category>
+                    </categories>
+        <offers>
+                            <offer id="course-741" available="true">
+                    <name>Курс "Салаты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/salaty</url>
+                    <price>11797</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>2</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Салаты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 485 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-742" available="true">
+                    <name>Курс "Авторская кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/avtorskaia-kuxnia</url>
+                    <price>13875</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>3</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Авторская кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 1248 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-743" available="true">
+                    <name>Курс "Мясные салаты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/miasnye-salaty</url>
+                    <price>6566</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>4</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Мясные салаты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 6 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-744" available="true">
+                    <name>Курс "Салаты без майонеза: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/salaty-bez-maioneza</url>
+                    <price>10933</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>5</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Салаты без майонеза".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 26 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-745" available="true">
+                    <name>Курс "Идеи: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/idei</url>
+                    <price>11990</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>6</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Идеи".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2753 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-746" available="true">
+                    <name>Курс "Здоровье: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/zdorove</url>
+                    <price>14833</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>7</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Здоровье".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2433 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-747" available="true">
+                    <name>Курс "Видеорецепты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/videorecepty</url>
+                    <price>11205</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>8</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Видеорецепты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2753 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-748" available="true">
+                    <name>Курс "Европейская кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/evropeiskaia-kuxnia</url>
+                    <price>8909</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>9</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Европейская кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2421 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-749" available="true">
+                    <name>Курс "Пошаговые рецепты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/posagovye-recepty</url>
+                    <price>8881</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>10</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Пошаговые рецепты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2733 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-750" available="true">
+                    <name>Курс "Итальянская кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/italianskaia-kuxnia</url>
+                    <price>10924</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>11</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Итальянская кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 710 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-751" available="true">
+                    <name>Курс "Греческая кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/greceskaia-kuxnia</url>
+                    <price>12334</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>12</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Греческая кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 124 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-752" available="true">
+                    <name>Курс "Русская кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/russkaia-kuxnia</url>
+                    <price>12344</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>13</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Русская кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 2089 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-753" available="true">
+                    <name>Курс "Постная еда: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/postnaia-eda</url>
+                    <price>8709</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>14</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Постная еда".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 373 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-754" available="true">
+                    <name>Курс "салат: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/salat</url>
+                    <price>14099</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>15</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "салат".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 125 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-755" available="true">
+                    <name>Курс "Французская кухня: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/francuzskaia-kuxnia</url>
+                    <price>9648</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>16</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Французская кухня".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 1073 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-756" available="true">
+                    <name>Курс "Салаты с помидорами: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/salaty-s-pomidorami</url>
+                    <price>3644</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>17</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Салаты с помидорами".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 1 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-757" available="true">
+                    <name>Курс "Летние салаты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/letnie-salaty</url>
+                    <price>9300</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>18</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Летние салаты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 16 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-758" available="true">
+                    <name>Курс "Салаты из огурцов: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/salaty-iz-ogurcov</url>
+                    <price>10751</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>19</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Салаты из огурцов".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 9 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-759" available="true">
+                    <name>Курс "Рыбные салаты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/rybnye-salaty</url>
+                    <price>2042</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>20</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Рыбные салаты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 12 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                            <offer id="course-760" available="true">
+                    <name>Курс "Классические салаты: от начинающего до профи"</name>
+                    <url>https://im-edok.ru/categories/klassiceskie-salaty</url>
+                    <price>7584</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>21</categoryId>
+                    <picture>/images/categories/default.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Профессиональный кулинарный курс по направлению "Классические салаты".
+                        
+                        В программе курса:
+                        - Основные техники и секреты приготовления
+                        - 13 практических занятий с пошаговыми рецептами
+                        - Подбор продуктов и ингредиентов
+                        - Секреты шеф-поваров
+                        - Сертификат по окончании курса
+                        
+                        Продолжительность: 4 недели. Занятия 2 раза в неделю по 3 часа.
+                        Все ингредиенты включены в стоимость.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Кулинарные курсы</param>
+                    <param name="Продолжительность">4 недели</param>
+                    <param name="Интенсивность">2 раза в неделю</param>
+                    <param name="Количество уроков">8</param>
+                    <param name="Сертификат">Да</param>
+                    <param name="Формат">Офлайн</param>
+                </offer>
+                        
+                            <offer id="recipe-3769" available="true">
+                    <name>Мини-курс: Как приготовить "Татара"</name>
+                    <url>https://im-edok.ru/recipes/tatara</url>
+                    <price>1362</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>317</categoryId>
+                    <picture>/images/recipes/recipe_3769_1.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Интенсивный мини-курс по приготовлению "Татара".
+                        
+                        Подбор рецептов
+                        
+                        В программе:
+                        - Особенности выбора ингредиентов
+                        - Пошаговый мастер-класс приготовления
+                        - Секреты идеальной подачи блюда
+                        - Тонкости и лайфхаки от шеф-повара
+                        
+                        Продолжительность: 90 минут.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Мини-курс</param>
+                    <param name="Продолжительность">90 минут</param>
+                    <param name="Сложность">Средне</param>
+                    <param name="Формат">Онлайн и офлайн</param>
+                </offer>
+                            <offer id="recipe-3768" available="true">
+                    <name>Мини-курс: Как приготовить "Козинаки из тыквенных семечек"</name>
+                    <url>https://im-edok.ru/recipes/kozinaki-iz-tykvennyx-semecek</url>
+                    <price>1256</price>
+                    <currencyId>RUR</currencyId>
+                    <categoryId>317</categoryId>
+                    <picture>/images/recipes/recipe_3768_1.jpg</picture>
+                    <description>
+                        <![CDATA[
+                        Интенсивный мини-курс по приготовлению "Козинаки из тыквенных семечек".
+                        
+                        Подбор рецептов
+                        
+                        В программе:
+                        - Особенности выбора ингредиентов
+                        - Пошаговый мастер-класс приготовления
+                        - Секреты идеальной подачи блюда
+                        - Тонкости и лайфхаки от шеф-повара
+                        
+                        Продолжительность: 90 минут.
+                        ]]>
+                    </description>
+                    <store>false</store>
+                    <pickup>true</pickup>
+                    <delivery>false</delivery>
+                    <param name="Тип обучения">Мини-курс</param>
+                    <param name="Продолжительность">90 минут</param>
+                    <param name="Сложность">Средне</param>
+                    <param name="Формат">Онлайн и офлайн</param>
+                </offer>
+                    </offers>
+    </shop>
+</yml_catalog>

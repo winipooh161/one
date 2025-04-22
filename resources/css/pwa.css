@@ -1,0 +1,330 @@
+/**
+ * PWA (Progressive Web App) стили
+ */
+
+/* Контейнер для кнопки установки PWA */
+#pwa-install-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1030;
+    transition: all 0.3s ease;
+}
+
+/* Стили для кнопки установки PWA */
+#install-pwa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    border-radius: 50px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    font-weight: 500;
+    animation: breathe 2s infinite ease-in-out;
+}
+
+#install-pwa:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+}
+
+/* Стили для офлайн уведомлений */
+.offline-alert {
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    z-index: 1040;
+}
+
+/* Анимация для появления уведомлений */
+.alert-warning, .alert-success, .installation-success {
+    animation: slideUp 0.5s ease forwards;
+}
+
+@keyframes slideUp {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Стили для офлайн-страницы */
+.offline-recipes {
+    opacity: 0.8;
+}
+
+/* Стили для PWA в режиме standalone */
+@media all and (display-mode: standalone) {
+    /* Удаляем элементы, не нужные в режиме приложения */
+    .pwa-hide-standalone {
+        display: none !important;
+    }
+    
+    /* Стиль для верхней панели в режиме приложения */
+    .navbar {
+        padding-top: env(safe-area-inset-top);
+        padding-bottom: 10px;
+    }
+    
+    /* Поддержка безопасной области iOS */
+    body {
+        padding-top: env(safe-area-inset-top);
+        padding-bottom: env(safe-area-inset-bottom);
+        padding-left: env(safe-area-inset-left);
+        padding-right: env(safe-area-inset-right);
+    }
+}
+
+/* Стили для адаптации PWA на мобильных устройствах */
+@media (max-width: 576px) {
+    #pwa-install-container {
+        bottom: 15px;
+        right: 15px;
+    }
+    
+    .offline-alert, .alert-success, .installation-success {
+        margin: 8px !important;
+    }
+}
+
+/* Анимации при установке PWA */
+.pwa-animation {
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Стиль при отсутствии подключения к интернету для изображений */
+.offline-image-placeholder {
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 150px;
+}
+
+/* PWA установка */
+@keyframes breathe {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+.pwa-install-banner {
+    padding: 12px 20px;
+    background-color: #f8f9fa;
+    border-left: 4px solid #0d6efd;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    animation: slideDown 0.4s ease-out;
+}
+
+@keyframes slideDown {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.pwa-install-prompt {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Адаптация для мобильных устройств */
+@media (max-width: 768px) {
+    #pwa-install-container {
+        width: 100%;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: 0;
+        padding: 10px;
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+    }
+    
+    #install-pwa {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* PWA Widget Styles */
+#pwa-install-widget {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    width: 90%;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+    padding: 20px;
+    z-index: 1050;
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    display: none;
+}
+
+#pwa-install-widget.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+.pwa-widget-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.close-pwa-widget {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0;
+    color: #888;
+}
+
+.pwa-widget-icon-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.device-icon {
+    font-size: 2rem;
+    margin-right: 15px;
+    color: #007bff;
+}
+
+.pwa-app-info {
+    display: flex;
+    align-items: center;
+}
+
+.pwa-app-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.pwa-widget-content ol {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.pwa-widget-content li {
+    margin-bottom: 5px;
+}
+
+.pwa-widget-footer {
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* Адаптивность для темной темы */
+.dark-mode #pwa-install-widget {
+    background-color: #333;
+    color: #eee;
+}
+
+.dark-mode .close-pwa-widget {
+    color: #aaa;
+}
+
+/* Стили для мобильных устройств */
+@media (max-width: 480px) {
+    #pwa-install-widget {
+        width: 95%;
+        bottom: 10px;
+    }
+    
+    .pwa-widget-header {
+        font-size: 1rem;
+    }
+}
+
+@media (display-mode: standalone) {
+    #pwa-install-widget {
+        display: none !important;
+    }
+}
+
+/* Стили для страницы PWA Install */
+.pwa-install-page .device-section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.pwa-install-page .device-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.pwa-install-page .device-icon {
+    font-size: 2.5rem;
+    margin-right: 0;
+    margin-bottom: 1rem;
+}
+
+.pwa-install-page .device-name {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.pwa-install-page .step {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f8f9fa;
+    border-radius: 6px;
+}
+
+.pwa-install-page .step:last-child {
+    margin-bottom: 0;
+}
+
+.dark-mode .pwa-install-page .step {
+    background-color: #272727;
+}
+
+/* Стили для виджета установки PWA */
+#pwa-install-widget {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: none;
+    z-index: 1000;
+}
+
+/* Показ виджета */
+#pwa-install-widget.show {
+    display: block;
+}

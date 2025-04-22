@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-recipes.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-categories.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-static.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-pagination.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-users.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://im-edok.ru/sitemap-news.xml</loc>
+        <lastmod>2025-04-20T14:12:51+00:00</lastmod>
+    </sitemap>
+</sitemapindex>

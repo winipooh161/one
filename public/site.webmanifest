@@ -1,0 +1,104 @@
+{
+    "name": "Яедок - Кулинарные рецепты",
+    "short_name": "Яедок",
+    "description": "Лучшие кулинарные рецепты для вас",
+    "start_url": "/?source=pwa",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#0d6efd",
+    "categories": ["food", "cooking", "recipes"],
+    "lang": "ru-RU",
+    "dir": "ltr",
+    "prefer_related_applications": false,
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/android-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-icon-maskable-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/screenshot1.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "Главная страница Яедок"
+        },
+        {
+            "src": "/screenshots/screenshot2.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "Рецепты блюд"
+        },
+        {
+            "src": "/screenshots/mobile1.jpg",
+            "sizes": "750x1334",
+            "type": "image/jpeg",
+            "platform": "narrow",
+            "label": "Мобильная версия"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Поиск рецептов",
+            "short_name": "Поиск",
+            "description": "Быстрый поиск рецептов",
+            "url": "/search",
+            "icons": [
+                {
+                    "src": "/shortcut-search.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                }
+            ]
+        },
+        {
+            "name": "Категории рецептов",
+            "short_name": "Категории",
+            "description": "Просмотр категорий рецептов",
+            "url": "/categories",
+            "icons": [
+                {
+                    "src": "/shortcut-categories.png",
+                    "sizes": "96x96",
+                    "type": "image/png"
+                }
+            ]
+        }
+    ]
+}

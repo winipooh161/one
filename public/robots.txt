@@ -1,0 +1,59 @@
+User-agent: *
+Allow: /
+
+# Запрет административных разделов
+Disallow: /admin/
+Disallow: /login
+Disallow: /register
+Disallow: /password/
+Disallow: /email/
+Disallow: /search?*
+
+# Запрет страниц с пагинацией (дубли контента)
+Disallow: /*?page=*
+Disallow: /*&page=*
+
+# Запрет страниц с сортировками
+Disallow: /*?sort=*
+Disallow: /*&sort=*
+
+# Разрешение индексации карты сайта
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+
+Sitemap: https://im-edok.ru/sitemap.xml
+
+User-agent: Googlebot-Image
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+User-agent: Yandex
+Allow: /
+Allow: /feeds/yandex/recipes.xml
+Allow: /feeds/yandex/combined.xml
+Disallow: /admin/
+Disallow: /login
+Disallow: /register
+Disallow: /password/
+Disallow: /email/
+Disallow: /search?*
+Disallow: /*?page=*
+Disallow: /*&page=*
+Disallow: /*?sort=*
+Disallow: /*&sort=*
+
+Host: im-edok.ru
+
+# Разрешаем все страницы рецептов
+Allow: /recipes/
+Allow: /categories/
+Allow: /search
+Allow: /articles/
+
+Clean-param: utm_source&utm_medium&utm_campaign
+Clean-param: yclid
+Clean-param: _openstat
+Clean-param: from
+Clean-param: gclid

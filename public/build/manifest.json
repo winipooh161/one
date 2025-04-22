@@ -1,0 +1,18 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-64174980.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-64174980.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-64174980.css"
+    ],
+    "file": "assets/app-fffa5c04.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    AddDefaultCharset UTF-8
+    RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# Увеличение максимального времени выполнения PHP скриптов до 600 секунд
+<IfModule mod_php7.c>
+    php_value max_execution_time 600
+</IfModule>
+
+<IfModule mod_php.c>
+    php_value max_execution_time 600
+</IfModule>

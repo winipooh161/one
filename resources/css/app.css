@@ -1,0 +1,312 @@
+/* Bootstrap стили */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+/* Стили для главной страницы */
+
+/* Глобальные стили для главной */
+.homepage-header {
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.banner-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+  filter: brightness(0.5);
+}
+
+/* Стили для поиска */
+.search-container {
+  border-radius: 10px;
+  backdrop-filter: blur(5px);
+}
+
+.search-container .nav-tabs {
+  border-bottom: none;
+}
+
+.search-container .nav-tabs .nav-link {
+  color: #555;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px 6px 0 0;
+}
+
+.search-container .nav-tabs .nav-link.active {
+  color: #2b6cb0;
+  background-color: rgba(247, 250, 252, 0.8);
+  border-bottom: 3px solid #2b6cb0;
+}
+
+.search-container .tab-content {
+  background-color: rgba(247, 250, 252, 0.8);
+  border-radius: 0 0 8px 8px;
+}
+
+.ingredient-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#ingredient-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.ingredient-chip {
+  background-color: #e2e8f0;
+  border-radius: 16px;
+  padding: 6px 12px;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.remove-ingredient {
+  margin-left: 6px;
+  cursor: pointer;
+  color: #718096;
+}
+
+.remove-ingredient:hover {
+  color: #e53e3e;
+}
+
+.popular-searches {
+  z-index: 5;
+  position: relative;
+}
+
+/* Категории на главной */
+.category-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+  height: 100%;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.category-icon-circle {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.category-icon-circle i {
+  font-size: 32px;
+}
+
+/* Рецепты на главной */
+.recipe-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.quick-recipe-img, .seasonal-recipe-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.recipe-meta {
+  font-size: 0.85rem;
+}
+
+/* Секция типов приема пищи */
+.meal-type-card {
+  height: 280px;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+}
+
+.meal-type-card:hover {
+  transform: translateY(-5px);
+}
+
+.meal-type-img {
+  height: 280px;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.meal-type-card:hover .meal-type-img {
+  transform: scale(1.05);
+}
+
+.meal-type-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.1) 100%);
+}
+
+/* FAQ секция */
+.accordion-button:not(.collapsed) {
+  background-color: #ebf4ff;
+  color: #2b6cb0;
+}
+
+.accordion-button:focus {
+  box-shadow: 0 0 0 0.25rem rgba(59, 130, 246, 0.25);
+}
+
+/* Телеграмм секция */
+.telegram-card {
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.telegram-card:hover {
+  transform: translateY(-5px);
+}
+
+.telegram-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.telegram-overlay {
+  background-color: rgba(0, 136, 204, 0.4);
+  transition: background-color 0.3s ease;
+}
+
+.telegram-card:hover .telegram-overlay {
+  background-color: rgba(0, 136, 204, 0.6);
+}
+
+.telegram-logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.telegram-logo i {
+  font-size: 40px;
+  color: #0088cc;
+}
+
+/* Социальные кнопки */
+.social-share-buttons a {
+  margin-bottom: 10px;
+}
+
+/* Советы */
+.cooking-tips .card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cooking-tips .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Темная тема */
+.dark-mode .homepage-header {
+  background-color: #1a202c !important;
+}
+
+.dark-mode .search-container {
+  background-color: #2d3748 !important;
+}
+
+.dark-mode .search-container .nav-tabs .nav-link.active {
+  color: #90cdf4;
+  background-color: #2d3748;
+  border-bottom: 3px solid #90cdf4;
+}
+
+.dark-mode .search-container .tab-content {
+  background-color: #2d3748;
+}
+
+/* Адаптивные стили */
+@media (max-width: 768px) {
+  .homepage-header {
+      padding: 2rem !important;
+  }
+  
+  .recipe-img, .quick-recipe-img, .seasonal-recipe-img {
+      height: 150px;
+  }
+  
+  .meal-type-card {
+      height: 200px;
+      margin-bottom: 20px;
+  }
+  
+  .meal-type-img {
+      height: 200px;
+  }
+  
+  .telegram-img {
+      height: 150px;
+  }
+}
+
+/* Анимации */
+.hover-shadow {
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+}
+
+/* Улучшения для PWA промпта */
+.pwa-install-prompt {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Улучшения для секции с кулинарными советами */
+.cooking-tips {
+  background-color: #f9fafb;
+  border-radius: 12px;
+}
+
+/* Стили для блока "Присоединяйтесь к нам" */
+.join-us-section {
+  background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%);
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(66, 153, 225, 0.5);
+}
+
+@media (max-width: 768px) {
+  .serving-calculator-flex {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+}
